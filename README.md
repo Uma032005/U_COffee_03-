@@ -3,6 +3,7 @@
 
 A modern and responsive coffee shop website built with **React (Vite)** and **Tailwind CSS**.  
 Showcasing a premium coffee brand with a clean design, smooth UI, and easy navigation.
+<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/c1637e20-e454-41a1-aa77-c427eb5bb8f2" />
 
 ## ✨ Features
 - Beautiful and responsive coffee shop landing page
@@ -22,5 +23,5 @@ Showcasing a premium coffee brand with a clean design, smooth UI, and easy navig
    ```bash
    git clone https://github.com/<your-username>/<repo-name>.git
    cd <repo-name>
-   <img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/625a2919-8580-4c64-a5e1-287fbdc3698b" />
+
 
